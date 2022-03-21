@@ -1,0 +1,1 @@
+INSERT INTO pcsatis.dbo.pcimage values (102, (SELECT * FROM OPENROWSET(BULK N'C:\Users\Sefa\Desktop\Resources\102.png', SINGLE_BLOB) as T1))

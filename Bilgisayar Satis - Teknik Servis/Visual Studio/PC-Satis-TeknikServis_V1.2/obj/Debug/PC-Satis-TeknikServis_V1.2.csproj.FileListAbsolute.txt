@@ -1,0 +1,400 @@
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\Guna.UI.dll
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\Guna.UI2.dll
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\source\repos\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Alperen\Desktop\PC-Satis-TeknikServis_V1.2.1\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\Guna.UI.dll
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\Guna.UI2.dll
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.5\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\Guna.UI.dll
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\Guna.UI2.dll
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.6\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Alperen\Desktop\Vtys Projesi\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2.7\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.2.9\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2.8\PC-Satis-TeknikServis_V1.2\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.3\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\PC-Satis-TeknikServis_V1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\sefa\Desktop\pcsatis v1.4\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\sefa\Desktop\pcsatis v1.5\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form19.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form20.resources
+C:\Users\sefa\Desktop\pcsatis v1.6\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form21.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form19.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form21.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\sefa\Desktop\pcsatis v1.7\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form19.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form21.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Batu Han\Desktop\pcsatis v1.8\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form19.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form21.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Sefa\Desktop\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form19.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form21.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Sefa\Desktop\VTYS\pcsatis v1.9.1\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe.config
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\bin\Debug\PC-Satis-TeknikServis_V1.2.pdb
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csprojAssemblyReference.cache
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form1.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form10.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form11.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form12.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form13.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form14.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form15.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form16.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form17.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form18.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form19.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form21.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form3.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form4.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form5.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form6.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form7.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form8.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form9.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form99.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Form2.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC_Satis_TeknikServis_V1._2.Properties.Resources.resources
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.GenerateResource.cache
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CoreCompileInputs.cache
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.csproj.CopyComplete
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.exe
+C:\Users\Batu Han\Desktop\Bilgisayar Satış - Teknik Servis\Bilgisayar Satış-Teknik Servis\PC-Satis-TeknikServis_V1.2\obj\Debug\PC-Satis-TeknikServis_V1.2.pdb
